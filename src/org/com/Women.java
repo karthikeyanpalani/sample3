@@ -5,7 +5,10 @@ public class Women {
 		
 		System.out.println("girls");
 		
-		System.out.println("trans gender");
-	}
+		System.out.println("boys");
+		
+        System.out.println("trans gender");
+		
+}
 
 }
